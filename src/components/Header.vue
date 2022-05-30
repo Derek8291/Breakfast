@@ -160,7 +160,7 @@ export default {
       }
     }
     .header_right{
-      width: 250px;
+      width: 300px;
       height: 100%;
       // border: 1px solid green;
       display: flex;
